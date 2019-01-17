@@ -1,0 +1,18 @@
+#map {
+ height: 500px;
+ width:100%;
+}
+
+.titel {
+  font-family: Akkurat Pro;
+  font-size: 25pt;
+  color: #003e6b;
+  text-align: center;
+}
+
+.text01 {
+  font-family: Gill Sans;
+  font-size: 15pt;
+  color: #c31710;
+  text-align: center;
+}
